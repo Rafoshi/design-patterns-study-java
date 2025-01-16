@@ -5,16 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="86a00e57-a85e-4712-92b5-68583ccbdd21" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/creational/abstractFactory/AsusGpu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/creational/abstractFactory/AsusManufacturer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/creational/abstractFactory/AsusMonitor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/creational/abstractFactory/Company.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/creational/abstractFactory/Gpu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/creational/abstractFactory/MSiGpu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/creational/abstractFactory/Monitor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/creational/abstractFactory/MsiManufacturer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/creational/abstractFactory/MsiMonitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/creational/builderWDirector/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/creational/builderWDirector/Builder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/creational/builderWDirector/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/creational/builderWDirector/CarBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/creational/builderWDirector/CarSchema.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/creational/builderWDirector/CarSchemaBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/creational/builderWDirector/Director.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/creational/factory/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/creational/simpleBuilder/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/creational/simpleBuilder/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/creational/simpleBuilder/CarBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/creational/simpleFactory/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/creational/simpleFactory/SimpleBurgerFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/creational/simpleFactory/SimpleBurgerFactory.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +56,7 @@
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Ioshi/code/java/DesignPatterns/src/creational/factory",
+    "last_opened_file_path": "C:/Users/Ioshi/code/java/DesignPatterns/src/creational/builderWDirector",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -63,7 +67,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Ioshi\code\java\DesignPatterns\src\creational\builderWDirector" />
       <recent name="C:\Users\Ioshi\code\java\DesignPatterns\src\creational\factory" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="creational.builderWDirector" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -83,7 +91,8 @@
       <option name="presentableId" value="Default" />
       <updated>1736976005267</updated>
       <workItem from="1736976006509" duration="1555000" />
-      <workItem from="1736989982015" duration="1919000" />
+      <workItem from="1736989982015" duration="2121000" />
+      <workItem from="1736997171763" duration="2133000" />
     </task>
     <servers />
   </component>
