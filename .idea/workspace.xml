@@ -5,8 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="86a00e57-a85e-4712-92b5-68583ccbdd21" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/creational/abstractFactory/AsusGpu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/creational/abstractFactory/AsusManufacturer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/creational/abstractFactory/AsusMonitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/creational/abstractFactory/Company.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/creational/abstractFactory/Gpu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/creational/abstractFactory/MSiGpu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/creational/abstractFactory/Monitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/creational/abstractFactory/MsiManufacturer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/creational/abstractFactory/MsiMonitor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/creational/factory/Burger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/creational/factory/Burger.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +24,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -74,7 +83,7 @@
       <option name="presentableId" value="Default" />
       <updated>1736976005267</updated>
       <workItem from="1736976006509" duration="1555000" />
-      <workItem from="1736989982015" duration="1336000" />
+      <workItem from="1736989982015" duration="1919000" />
     </task>
     <servers />
   </component>
