@@ -1,4 +1,4 @@
-package creational.factory;
+package creational.simpleFactory;
 
 public class BeefBurger extends Burger{
     private boolean angus;

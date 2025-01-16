@@ -1,7 +1,7 @@
-package creational.factory;
+package creational.simpleFactory;
 
-public class Restaurant {
-    public Burger orderBurger(String request) {
+public class SimpleBurgerFactory {
+    public Burger createBurger(String request) {
         Burger burger = null;
 
         if("BEEF".equals(request)) {
@@ -10,8 +10,6 @@ public class Restaurant {
             burger = new VeggieBurger();
         }
 
-        assert burger != null;
-        burger.prepare();
         return burger;
     }
 }

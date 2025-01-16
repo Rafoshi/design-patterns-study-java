@@ -1,4 +1,4 @@
-package creational.factory;
+package creational.simpleFactory;
 
 public abstract class  Burger {
     private int productId;

@@ -1,4 +1,4 @@
-package creational.factory;
+package creational.simpleFactory;
 
 public class VeggieBurger extends  Burger{
     private boolean combo;
