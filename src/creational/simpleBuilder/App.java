@@ -8,6 +8,6 @@ public class App {
                 .year(2004);
 
         Car car = carBuilder.build();
-        car.toString();
+        System.out.println(car.toString());
     }
 }
