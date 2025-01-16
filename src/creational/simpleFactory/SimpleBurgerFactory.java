@@ -6,7 +6,7 @@ public class SimpleBurgerFactory {
 
         if("BEEF".equals(request)) {
             burger = new BeefBurger();
-        } else if("BEGGIe".equals(request)) {
+        } else if("VEGGIE".equals(request)) {
             burger = new VeggieBurger();
         }
 

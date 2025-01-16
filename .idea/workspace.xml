@@ -5,8 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="86a00e57-a85e-4712-92b5-68583ccbdd21" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/creational/factory/SimpleBurgerFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/creational/factory/Restaurant.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/creational/factory/Restaurant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/creational/factory/BeefBurger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/creational/factory/BeefBurgerRestaurant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/creational/factory/Burger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/creational/factory/Restaurant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/creational/factory/VeggieBurger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/creational/factory/VeggieBurgerRestaurant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/creational/simpleFactory/SimpleBurgerFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/creational/simpleFactory/SimpleBurgerFactory.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +48,7 @@
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Ioshi/code/java/DesignPatterns/src/creational/factory",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -50,6 +57,11 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Ioshi\code\java\DesignPatterns\src\creational\factory" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -72,5 +84,16 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
