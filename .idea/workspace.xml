@@ -4,21 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="86a00e57-a85e-4712-92b5-68583ccbdd21" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/creational/builderWDirector/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/creational/builderWDirector/Builder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/creational/builderWDirector/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/creational/builderWDirector/CarBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/creational/builderWDirector/CarSchema.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/creational/builderWDirector/CarSchemaBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/creational/builderWDirector/Director.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/creational/factory/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/creational/simpleBuilder/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/creational/simpleBuilder/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/creational/simpleBuilder/CarBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/creational/simpleFactory/Main.java" afterDir="false" />
+    <list default="true" id="86a00e57-a85e-4712-92b5-68583ccbdd21" name="Changes" comment="Builder with director">
+      <change afterPath="$PROJECT_DIR$/src/structural/adapter/CollegeStudent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/structural/adapter/CollegeStudentAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/structural/adapter/SchoolStudent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/structural/adapter/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/structural/adapter/StudentClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/structural/adapter/main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/creational/simpleFactory/SimpleBurgerFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/creational/simpleFactory/SimpleBurgerFactory.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,6 +64,7 @@
       <recent name="C:\Users\Ioshi\code\java\DesignPatterns\src\creational\factory" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="structural.adapter" />
       <recent name="creational.builderWDirector" />
     </key>
   </component>
@@ -92,8 +86,49 @@
       <updated>1736976005267</updated>
       <workItem from="1736976006509" duration="1555000" />
       <workItem from="1736989982015" duration="2121000" />
-      <workItem from="1736997171763" duration="2133000" />
+      <workItem from="1736997171763" duration="4132000" />
     </task>
+    <task id="LOCAL-00001" summary="Classes for Using the design patterns">
+      <option name="closed" value="true" />
+      <created>1736999460968</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1736999460968</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Classes for Using the design patterns">
+      <option name="closed" value="true" />
+      <created>1736999499511</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1736999499511</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Builder">
+      <option name="closed" value="true" />
+      <created>1736999538700</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1736999538700</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Annotation for simple factory">
+      <option name="closed" value="true" />
+      <created>1736999558154</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1736999558154</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Builder with director">
+      <option name="closed" value="true" />
+      <created>1736999570324</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1736999570324</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -109,5 +144,12 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Classes for Using the design patterns" />
+    <MESSAGE value="Builder" />
+    <MESSAGE value="Annotation for simple factory" />
+    <MESSAGE value="Builder with director" />
+    <option name="LAST_COMMIT_MESSAGE" value="Builder with director" />
   </component>
 </project>
