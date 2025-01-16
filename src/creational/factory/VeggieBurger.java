@@ -1,6 +1,6 @@
 package creational.factory;
 
-public class VeggieBurger extends Burger {
+public class VeggieBurger implements Burger {
     private boolean combo;
 
     public boolean isCombo() {

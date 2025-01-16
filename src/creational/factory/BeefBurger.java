@@ -1,6 +1,6 @@
 package creational.factory;
 
-public class BeefBurger extends Burger {
+public class BeefBurger implements Burger {
     private boolean angus;
 
     public boolean isAngus() {
