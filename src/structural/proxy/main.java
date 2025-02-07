@@ -1,9 +1,9 @@
 package structural.proxy;
 
 public class main {
-    static void main(String[] args) {
-        Internet internet = new RealInternet();
+    public static void main(String[] args) {
+        Internet internet = new ProxyInternet();
         internet.connect("www.google.com");
-
+        internet.connect("www.youtube.com");
     }
 }
