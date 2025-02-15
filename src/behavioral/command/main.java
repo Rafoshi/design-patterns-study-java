@@ -1,4 +1,4 @@
-package behavioral;
+package behavioral.command;
 
 public class main {
     public static void main(String[] args) {

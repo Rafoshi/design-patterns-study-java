@@ -1,4 +1,4 @@
-package behavioral;
+package behavioral.command;
 
 public class Room {
     Command command;
